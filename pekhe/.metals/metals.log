@@ -1,0 +1,14 @@
+2021.01.01 17:49:01 INFO  Started: Metals version 0.9.8 in workspace 'C:\wamp64\www\vigilus' for client vscode.
+2021.01.01 17:49:18 INFO  time: initialize in 18s
+2021.01.01 17:49:46 WARN  Build server is not auto-connectable.
+2021.01.01 17:49:46 WARN  no build tool detected in workspace 'C:\wamp64\www\vigilus'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.01 17:50:38 INFO  shutting down Metals
+2021.01.03 22:26:45 INFO  Started: Metals version 0.9.8 in workspace 'C:\wamp64\www\vigilus' for client vscode.
+2021.01.03 22:26:49 INFO  time: initialize in 4.37s
+2021.01.03 22:26:53 WARN  Build server is not auto-connectable.
+2021.01.03 22:26:53 WARN  no build tool detected in workspace 'C:\wamp64\www\vigilus'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.04 06:23:20 INFO  shutting down Metals
+2021.01.04 06:26:25 INFO  Started: Metals version 0.9.8 in workspace 'C:\wamp64\www\vigilus' for client vscode.
+2021.01.04 06:26:30 INFO  time: initialize in 5.08s
+2021.01.04 06:26:35 WARN  Build server is not auto-connectable.
+2021.01.04 06:26:35 WARN  no build tool detected in workspace 'C:\wamp64\www\vigilus'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
